@@ -1,6 +1,6 @@
 # Skin-Cancer-Detection
 This a Deep Learning project to classify skin cancer into three different classes,["melanoma","nevus","seborrhic keratosis"] 
-
+This project was inspired by Sebastian Thrun and his project on skin cancer classification. It's also worth mentioning that I got this data from Udacity's Deep Learning Nano-degree.
 Built using Pytorch.
 
 link for training data:
