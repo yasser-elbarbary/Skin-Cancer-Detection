@@ -1,5 +1,8 @@
 # Skin-Cancer-Detection
-This a Deep Learning project to classify skin cancer in three different classes built on Pytorch.
+This a Deep Learning project to classify skin cancer into three different classes,["melanoma","nevus","seborrhic keratosis"] 
+
+Built using Pytorch.
+
 link for training data:
 https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/train.zip
 
@@ -10,4 +13,4 @@ link for testing data:
 https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/test.zip
 
 
-download these folders and then specify their directories in the code.
+download these folders and then specify their directories in the code wher you will be instructed.
